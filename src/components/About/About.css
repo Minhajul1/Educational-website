@@ -1,0 +1,12 @@
+.first-about-section{
+    background-color: lightgray;
+    padding: 50px;
+    margin: 70px;
+    border-radius: 10px;
+}
+.second-about-section{
+    background-color: rgb(248, 160, 160);
+    padding: 50px;
+    margin: 70px;
+    border-radius: 10px;
+}

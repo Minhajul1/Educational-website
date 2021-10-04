@@ -1,0 +1,8 @@
+.service-data-card{
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.service-data-card img{
+    height: 200px;
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.home-data-card{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.home-data-card img{
+    height: 200px;
+    width: 100%;
+}

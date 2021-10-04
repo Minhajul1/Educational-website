@@ -1,0 +1,9 @@
+.demo-data-card{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.demo-data-card img{
+    height: 200px;
+    width: 100%;
+}
